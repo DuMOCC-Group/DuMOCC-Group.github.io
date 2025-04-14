@@ -1,0 +1,1 @@
+# szczypinski-group.github.io
