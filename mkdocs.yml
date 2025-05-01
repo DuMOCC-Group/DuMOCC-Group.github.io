@@ -9,7 +9,7 @@ site_url: "https://szczypinski-group.github.io"
 # repo_name: "szczypinski-group"
 site_dir: "site"
 copyright: Copyright &copy; 2025 Szczypiński Research Group
-edit_uri: blob/main/docs/
+# edit_uri: blob/main/docs/
 
 nav:
   - Home: index.md
