@@ -1,9 +1,13 @@
 # Current group members
 
+## Principal Investigator
+
 <img src="assets/FS.jpg" alt="Filip Szczypiński" class="member-photo circle">
-## Dr Filip T. Szczypiński
+### Dr Filip T. Szczypiński
 *Royal Society University Research Fellow (2025 – now)*  <br />
 *Assistant Professor of Chemistry Automation (proleptic)*
+
+[:fontawesome-brands-orcid: ORCID](https://orcid.org/0000-0003-3174-8532) | [:fontawesome-solid-graduation-cap: Google Scholar](https://scholar.google.co.uk/citations?user=DJLqVIEAAAAJ)
 
 Filip Szczypiński is a Royal Society University Research Fellow and Assistant Professor of Chemistry Automation at Durham University, which he joined in 2025.
 He studied Natural Sciences at the University of Cambridge, where he investigated host–guest interactions in the group of Prof. Jonathan Nitschke.
