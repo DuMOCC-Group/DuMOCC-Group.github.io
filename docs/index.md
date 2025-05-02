@@ -26,8 +26,6 @@ We combine:
 
 This integrated approach transforms supramolecular chemistry from a trial-and-error process into a **predictive, modern, and digital field**, helping us *refine our understanding* of the underlying chemical processes.
 
-<br />
-
 #### We are grateful to our funders!
 
 <div class="funder-logos">
