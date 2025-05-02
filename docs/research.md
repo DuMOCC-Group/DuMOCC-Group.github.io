@@ -22,26 +22,23 @@ C. E. Shields, T. Fellowes, A. G. Slater, A. I. Cooper, K. G. Andrews and F. T.
 
 ## Digital supramolecular chemistry
 
-Supramolecular systems are typically designed through intuition, trial-and-error, and incremental tuning of structure.
-We are working to change that by bringing **cheminformatics, molecular modelling, and machine learning** into supramolecular design—much like they are used in drug discovery.
+We are working on bringing **cheminformatics, molecular modelling, and machine learning** into supramolecular design – much like they are used in drug discovery.
 We favour systems that are **robust and modular**, so they can be handled by robots, iterated on quickly, and used by collaborators.
 Our high-throughput platforms generate rich datasets that allow structure–function relationships to emerge naturally, even in noisy or complex systems:
 
 - **Dynamic combinatorial libraries** for self-sorting and guest binding.
-- **Molecular modelling** (force fields, semi-empirical, DFT) to predict structure and energy landscapes.
+- **Molecular modelling** to predict structure and energy landscapes.
 - **Machine learning** to learn from experimental data and guide library design.
 
 **Example publications:**
 
 F. T. Szczypiński, S. Bennett and K. E. Jelfs, [Can we predict materials that can be synthesised?](https://doi.org/10.1039/D0SC04321D), *Chem. Sci.*, 2021, **12**, 830–840.
 
-S. Bennett, F. T. Szczypiński, L. Turcani, M. E. Briggs, R. L. Greenaway and K. E. Jelfs, [Materials Precursor Score: Modeling Chemists’ Intuition for the Synthetic Accessibility of Porous Organic Cage Precursors](https://doi.org/10.1021/acs.jcim.1c00375), *J. Chem. Inf. Model.*, 2021, **61**, 4342–4356.
-
 V. Abet, F. T. Szczypiński, M. A. Little, V. Santolini, C. D. Jones, R. Evans, C. Wilson, X. Wu, M. F. Thorne, M. J. Bennison, P. Cui, A. I. Cooper, K. E. Jelfs and A. G. Slater, [Inducing Social Self-Sorting in Organic Cages To Tune The Shape of The Internal Cavity](https://doi.org/10.1002/anie.202007571), *Angew. Chem. Int. Ed.*, 2020, **59**, 16755–16763.
 
 ## Molecular recognition and function
 
-We’re fascinated by how synthetic molecules can **selectively bind**, **transform**, or **respond** to guests — especially where structure–function relationships are subtle or emergent.
+We’re fascinated by how synthetic molecules can **selectively bind**, **transform**, or **respond** to guests, especially where structure-function relationships are subtle or emergent.
 Our interests include:
 
 - **Artificial receptors** that selectively bind specific molecular or multi-component guests, designed using computational tools and validated with binding experiments.
