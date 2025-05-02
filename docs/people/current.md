@@ -2,12 +2,11 @@
 
 ## Principal Investigator
 
-<img src="assets/FS.jpg" alt="Filip Szczypiński" class="member-photo circle">
-### Dr Filip T. Szczypiński
+<div class="member-card" markdown>
+![Filip Szczypiński](assets/FS.jpg){ .member-photo }
+### Dr Filip Szczypiński [:fontawesome-brands-orcid:](https://orcid.org/0000-0003-3174-8532) [:fontawesome-solid-graduation-cap:](https://scholar.google.co.uk/citations?user=DJLqVIEAAAAJ)
 *Royal Society University Research Fellow (2025 – now)*  <br />
 *Assistant Professor of Chemistry Automation (proleptic)*
-
-[:fontawesome-brands-orcid: ORCID](https://orcid.org/0000-0003-3174-8532) | [:fontawesome-solid-graduation-cap: Google Scholar](https://scholar.google.co.uk/citations?user=DJLqVIEAAAAJ)
 
 Filip Szczypiński is a Royal Society University Research Fellow and Assistant Professor of Chemistry Automation at Durham University, which he joined in 2025.
 He studied Natural Sciences at the University of Cambridge, where he investigated host–guest interactions in the group of Prof. Jonathan Nitschke.
@@ -20,19 +19,24 @@ He has contributed to the development of autonomous robotic platforms for chemic
 
 Outside the lab, Filip enjoys travelling, food (eating, cooking, growing), and wine.
 He has been seen organising tasting sessions, giving talks on wine chemistry, and competing in blind wine tasting around the world.
+</div>
 
 ## Masters students
 
-<img src="assets/GW.jpg" alt="Guiling Wei" class="member-photo circle">
+<div class="member-card" markdown>
+![Guiling Wei](assets/GW.jpg){ .member-photo }
 ### Guiling Wei
 *Master of Data Science Student (2025)*
 
 Guiling completed her undergraduate studies at Tianjin Foreign Studies University and previously worked in the manufacturing industry. She's interested in machine learning, as well as text mining, web scraping, and data visualization, especially in the context of real-world applications of predictive modelling and data-driven research. She has joined the group in 2025 for her data science research project, in which she is investigating new digital representations of molecules that are suitable for predictive machine learning applications.
+</div>
 
 ## PhD students
 
+<div class="member-card" markdown>
 <img src="assets/smiley.jpg" alt="Smiley Face" class="member-photo circle">
 ### This Could Be You
 *PhD Student (soon – now)*
 
 Get in touch if you are excited about data-driven discovery in chemistry!
+</div>
